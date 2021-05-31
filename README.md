@@ -1,5 +1,5 @@
-<h1 align="center">Hi everyone 👋</h1>
-<h3 align="center">I'm a software developer and researcher in the fields of cryptography and security.</h3>
+<h1 align="center">Hi everyone :ghost: </h1>
+<h3 align="center">I'm a software developer and a researcher in the areas of cryptography and security.</h3>
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jhon3&repo=JhonattanCabral&countColorcountColor)
 
